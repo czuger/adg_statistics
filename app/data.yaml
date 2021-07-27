@@ -1,0 +1,202 @@
+---
+LI: !ruby/object:UnitReader
+  name: Infanterie légère
+  typ: LI
+  prot: 1
+  co: 2
+  ext:
+  bonuses:
+    LI: 0
+    LMI: 0
+    HI: 0
+    MI: 0
+    WWg: 0
+    LH: 0
+    Art: 0
+    Cv: 0
+    HCh: 0
+    Ct: 0
+    Kn: 0
+    El: 0
+    SCh: 0
+LMI: !ruby/object:UnitReader
+  name: Archer, Arbalétrier Arquebusier
+  typ: LMI
+  prot: 0
+  co: 3
+  ext:
+  bonuses:
+    LI: 1
+    LH: 1
+    Cv: 1
+    Ct: 1
+    Kn: 1
+    El: 1
+MI: !ruby/object:UnitReader
+  name: Lancier moyen
+  typ: MI
+  prot: 1
+  co: 3
+  ext: "*"
+  bonuses:
+    LI: 1
+    LMI: 1
+    HI: 1
+    MI: 1
+    WWg: 1
+    LH: 1
+    Art: 1
+    Cv: 1
+    HCh: 1
+    Ct: 1
+    Kn: 1
+    El: 1
+    SCh: 1
+HI: !ruby/object:UnitReader
+  name: Levée
+  typ: HI
+  prot: 1
+  co: 3
+  ext:
+  bonuses:
+    LI: 1
+    LH: 1
+    LMI: 1
+WWg: !ruby/object:UnitReader
+  name: Chariot de guerre
+  typ: WWg
+  prot: 2
+  co: 4
+  ext: "#"
+  bonuses:
+    LH: 2
+    Cv: 2
+    Ct: 2
+    Kn: 2
+    El: 2
+    LI: 1
+Art: !ruby/object:UnitReader
+  name: Artillerie
+  typ: Art
+  prot: 1
+  co: 2
+  ext:
+  bonuses: {}
+LH: !ruby/object:UnitReader
+  name: Chameau léger
+  typ: LH
+  prot: 1
+  co: 2
+  ext: "(1)"
+  bonuses:
+    LI: 1
+Cv: !ruby/object:UnitReader
+  name: Cavalerie lourde avec armure
+  typ: Cv
+  prot: 1
+  co: 3
+  ext:
+  bonuses:
+    LH: 1
+    Cv: 1
+    Ct: 1
+    Kn: 1
+    El: 1
+    LI: 1
+    LMI: 1
+    MI: 1
+    HI: 1
+HCh: !ruby/object:UnitReader
+  name: Char lourd
+  typ: HCh
+  prot: 1
+  co: 3
+  ext:
+  bonuses:
+    LMI: 1
+    LH: 1
+    LI: 1
+    HI: 1
+    MI: 1
+    WWg: 1
+    Art: 1
+    Cv: 1
+    HCh: 1
+    Ct: 1
+    Kn: 1
+    El: 1
+    SCh: 1
+Ct: !ruby/object:UnitReader
+  name: Cataph. chameau
+  typ: Ct
+  prot: 2
+  co: 3
+  ext: "(1)"
+  bonuses:
+    LMI: 1
+    LH: 1
+    LI: 1
+    HI: 1
+    MI: 1
+    WWg: 1
+    Art: 1
+    Cv: 1
+    HCh: 1
+    Ct: 1
+    Kn: 1
+    El: 1
+    SCh: 1
+Kn: !ruby/object:UnitReader
+  name: Chevalier lourd
+  typ: Kn
+  prot: 2
+  co: 3
+  ext:
+  bonuses:
+    LMI: 1
+    LH: 1
+    Cv: 1
+    LI: 1
+    HI: 1
+    MI: 1
+    WWg: 1
+    Art: 1
+    HCh: 1
+    Ct: 1
+    Kn: 1
+    El: 1
+    SCh: 1
+El: !ruby/object:UnitReader
+  name: Eléphant
+  typ: El
+  prot: 0
+  co: 3
+  ext: "(1)"
+  bonuses:
+    LH: 1
+    Cv: 2
+    Ct: 2
+    Kn: 2
+    El: 2
+    piétons: 1
+    LI: 1
+SCh: !ruby/object:UnitReader
+  name: Char à faux
+  typ: SCh
+  prot: 0
+  co: 1
+  ext:
+  bonuses:
+    LI: 0
+    LMI: 0
+    HI: 0
+    MI: 0
+    WWg: 0
+    LH: 0
+    Art: 0
+    Cv: 0
+    HCh: 0
+    Ct: 0
+    Kn: 0
+    El: 0
+    SCh: 0

@@ -7,7 +7,7 @@ Fantassin lourd ** HI 1 4 +2 vs LMI en terrain clair ou vs LH sinon +1 vs tous
 Chevalier à pied ** HI [3] 4 +2 vs LMI en terrain clair ou vs LH sinon +1 vs tous. Armure lourde et A2M
 Lancier lourd * @ HI 1 4 +2 vs LMI en terrain clair ou vs LH sinon +1 vs tous
 Phalange * @ HI 1 4 +2 vs tous
-Levée HI 1 3 +1 contre LI, LH et LMI
+Levée HI 1 3 +1 vs LI, LH et LMI
 Chariot de guerre # WWg 2 4 +2 vs montés sauf El ; +1 vs LI Bonus de +1 si Prêt au combat
 Artillerie Art 1 2 +1 au tir vs El et WWg +1 pour l’ennemi sauf LI et LH
 Cavalerie légère LH 1 2 +1 vs LI si la LI est en terrain clair
