@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    hazard (1.3.4)
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  hazard
+
+BUNDLED WITH
+   2.2.22

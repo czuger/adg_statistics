@@ -1,0 +1,26 @@
+Infanterie légère LI 1 2 0 vs tous. Détruite en terrain clair par LMI, MI, HI, Cv, Ct, HCh et Kn
+Javelinier LMI 1 3 +1 vs LI, LH, El et SCh. Javelot
+Archer, Arbalétrier Arquebusier LMI 0 3 +1 vs LI et LH ; +1 au 1er tour vs montés si reçoit la charge de front
+Fantassin moyen ** MI 1 3 +1 vs tous sauf Ct, HCh et Kn
+Lancier moyen * @ MI 1 3 +1 vs tous sauf Ct, HCh et Kn
+Fantassin lourd ** HI 1 4 +2 vs LMI en terrain clair ou vs LH sinon +1 vs tous
+Chevalier à pied ** HI [3] 4 +2 vs LMI en terrain clair ou vs LH sinon +1 vs tous. Armure lourde et A2M
+Lancier lourd * @ HI 1 4 +2 vs LMI en terrain clair ou vs LH sinon +1 vs tous
+Phalange * @ HI 1 4 +2 vs tous
+Levée HI 1 3 +1 contre LI, LH et LMI
+Chariot de guerre # WWg 2 4 +2 vs montés sauf El ; +1 vs LI Bonus de +1 si Prêt au combat
+Artillerie Art 1 2 +1 au tir vs El et WWg +1 pour l’ennemi sauf LI et LH
+Cavalerie légère LH 1 2 +1 vs LI si la LI est en terrain clair
+Chameau léger (1) LH 1 2 +1 vs LI si la LI est en terrain clair
+Cavalerie moyenne Cv 0 3 +1 vs montés, LI, LMI, MI et Levée +1 vs HI si attaque de flanc/arrière +1 au 1er tour vs LMI et Fantassin moyen sauf si la cavalerie a Impact ou est pénalisée par le terrain
+Char léger Cv 0 3 +1 vs montés, LI, LMI, MI et Levée +1 vs HI si attaque de flanc/arrière +1 au 1er tour vs LMI et Fantassin moyen sauf si la cavalerie a Impact ou est pénalisée par le terrain
+Chameau (1) Cv 0 3 +1 vs montés, LI, LMI, MI et Levée +1 vs HI si attaque de flanc/arrière +1 au 1er tour vs LMI et Fantassin moyen sauf si la cavalerie a Impact ou est pénalisée par le terrain
+Cavalerie lourde Cv 0 3 +1 vs montés, LI, LMI, MI et Levée +1 vs HI si attaque de flanc/arrière +1 au 1er tour vs LMI et Fantassin moyen sauf si la cavalerie a Impact ou est pénalisée par le terrain
+Cavalerie lourde avec armure Cv [1] 3 +1 vs montés, LI, LMI, MI et Levée +1 vs HI si attaque de flanc/arrière +1 au 1er tour vs LMI et Fantassin moyen sauf si la cavalerie a Impact ou est pénalisée par le terrain
+Char lourd HCh [1] 3 Armure +2 vs LMI et LH, sinon +1 vs tous sauf WWg Pas d’Impact vs Kn
+Cataphracte Ct [2] 3 Armure lourde +2 vs LMI et LH, sinon +1 vs tous sauf WWg Pas d’Impact vs Kn
+Cataph. chameau (1) Ct [2] 3 Armure lourde +2 vs LMI et LH, sinon +1 vs tous sauf WWg Pas d’Impact vs Kn
+Chevalier moyen Kn [1] 3 Armure +2 vs LMI, LH et Cv sinon +1 vs tous sauf WWg
+Chevalier lourd Kn [2] 3 Armure +2 vs LMI, LH et Cv sinon +1 vs tous sauf WWg
+Eléphant (1) El 0 3 +2 vs montés et +1 vs piétons, Impact sauf vs LI, LH et javelinier
+Char à faux SCh 0 1 0 vs tous. Facteur ennemi de 0 au 1er tour sauf LI, LH, LMI, WWg et El qui gardent leur facteur. Annules soutiens ennemis au 1er tour
